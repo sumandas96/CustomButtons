@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:layout_gravity="center"
     android:padding="30dp"
+    android:background="#FF3E4D"
     tools:context=".MainActivity">
 
     <Button
